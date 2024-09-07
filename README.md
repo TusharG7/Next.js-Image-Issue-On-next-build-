@@ -1,7 +1,18 @@
-After building the nextjs project, new uploaded images are not being displayed? 
+# Troubleshooting Image Display in Next.js Project
 
-Here is a one way to solve that - checkout the repository and follow these steps :
+If new uploaded images are not being displayed after building your Next.js project, follow these steps:
 
-clone repo -
-open up terminal : npm install -> npm run build -> npm start
-cd public_server -> npm install -> npm run public-server
+**Clone the Repository:**
+
+Install Dependencies and Build the Project:
+
+npm install -> 
+npm run build -> 
+npm start
+
+------------------------------------------------------------------
+Set Up the Public Server:
+
+cd public_server -> 
+npm install ->
+npm run public-server
